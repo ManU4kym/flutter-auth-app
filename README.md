@@ -41,8 +41,6 @@ Contributions are welcome! If you'd like to improve the app or add new features,
 
 
 Happy coding!
-
-
 >>>>>>> bf32a85830f50e336adb366ab8ba18429888c0ea
 =======
 
